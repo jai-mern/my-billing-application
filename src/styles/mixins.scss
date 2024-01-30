@@ -1,0 +1,10 @@
+// mixins.scss
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  // Add more mixins as needed
+  
